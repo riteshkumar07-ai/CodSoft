@@ -11,6 +11,6 @@ Key Concepts: Lists, Dictionaries, File I/O (optional), Menu-driven programming 
 ✅ Task 2: Calculator A simple Python-based calculator for performing basic arithmetic operations.
 
 Key Concepts: Functions, Conditionals, Input Validation Operations: Addition, Subtraction, Multiplication, Division
-✅ Task 3: Rock-Paper-Scissors Game A fun console-based game to play against the computer.
+ ✅ Task 3: Rock-Paper-Scissors Game A fun console-based game to play against the computer.
 
 Key Concepts: Conditionals, Random Choice, Loops Features: Winner detection, score tracking (optional), replay option
